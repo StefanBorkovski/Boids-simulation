@@ -14,6 +14,8 @@ More complex rules can be added, such as obstacle avoidance and goal-seeking.
 
 This repository tries to reimplement/optimize [this](https://github.com/roholazandie/boids) brute-force simulation approach which has quadratic time complexity, by using [k-d tree](https://en.wikipedia.org/wiki/K-d_tree) to achieve logarithmic time complexity. Also the comparison between the two approaches is presented. 
 
+<img src="https://i.imgur.com/MTKBdgw.png" width="500" height="400">
+
 ## Installation requirements
 
  Run:
