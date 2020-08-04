@@ -31,3 +31,7 @@ For installing glfw library, download pre-compiled binaries corresponding to you
 Extract the folder anywhere you like, i would prefer C drive. In extracted folder there is a folder called lib-mingw-w64/w32, add that to the PATH variable. 
 
 If there is a problem with OpenGL try [this](https://gist.github.com/rb-dahlb/26f316c5b6089807a139fc44ee69f0d1) solution.
+
+## Simulation
+
+If using Spyder, run the codes through command prompt.
