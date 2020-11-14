@@ -10,6 +10,8 @@ As with most artificial life simulations, Boids is an example of emergent behavi
 
 More complex rules can be added, such as obstacle avoidance and goal-seeking.
 
+▸ This work is done as a project for faculty subject "Programming, Data Structures, and Algorithms". July 2020.
+
 ## About this repository
 
 This repository tries to reimplement/optimize [this](https://github.com/roholazandie/boids) brute-force simulation approach which has quadratic time complexity, by using [k-d tree](https://en.wikipedia.org/wiki/K-d_tree) to achieve logarithmic time complexity. Also the comparison between the two approaches is presented. 
